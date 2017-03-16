@@ -1,0 +1,19 @@
+.col-12 {
+	background-color:#E8B952;
+	margin-bottom:30px;
+}
+.card-img {
+	width:100%;
+}
+.card-content {
+  padding: 20px;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.row {
+	margin-top:20px;
+}
