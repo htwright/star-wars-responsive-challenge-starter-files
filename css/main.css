@@ -2,16 +2,15 @@
 	background-color:#E8B952;
 	margin-bottom:30px;
 }
+
 img {
 	width:100%;
 }
-
 
 h2, h3 {
   margin-top: 0;
   margin-bottom: 0;
   padding: 20px
-
 }
 
 .row {
@@ -22,6 +21,7 @@ h2 {
 	font-size:16px;
 	font-weight:bold;
 }
+
 h3 {
 	font-size:12px;
 }
